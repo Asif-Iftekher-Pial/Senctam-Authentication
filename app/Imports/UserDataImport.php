@@ -16,9 +16,9 @@ class UserDataImport implements ToModel
     {
         return new UserData([
             //
-            'first'     => $row[0],
-            'last'    => $row[1], 
-            'email' => $row[2],
+            'first'=> $row[1],
+            'last'=> $row[2], 
+            'email'=> $row[3],
         ]);
     }
 }

@@ -1,6 +1,6 @@
 **Installation**
 step 1- 
-install this project like after making clone of any other projects from github
+Clone this project and install it Follow all the steps  from 2 to 5 :D
 step 2-
 run 'php artisan migrate:fresh --seed' 
 it will generate 200 datas from factory so that we can download those data from hompage download button for testing the import data functionality
